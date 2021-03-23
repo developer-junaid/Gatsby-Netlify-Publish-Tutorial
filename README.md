@@ -2,7 +2,7 @@
 
 ## Site Deployed --> 🔗 https://gatsby-netlify-publish.netlify.app/
 
-<img src='./src/images/homepage.png' />
+<center><img src='./src/images/homepage.png' /></center>
 
 ## Steps
 
